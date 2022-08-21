@@ -1,8 +1,10 @@
 public Card(){
 
-  public string suit(){}
+  private String suit;
 
-  public int getCardValue(int value){ return cardValue};
+  private int cardValue;
+
+  public int getCardValue(){ return cardValue};
 
   public String toString(){ return "not implemented"}
 
