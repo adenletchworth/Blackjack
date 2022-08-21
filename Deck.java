@@ -13,6 +13,5 @@ public class Deck{
   public List<BlackJackValue> getDeck(){
     return cards;
   }
-  
 
 }
